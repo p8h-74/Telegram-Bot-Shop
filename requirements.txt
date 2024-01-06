@@ -55,7 +55,7 @@ pyaes==1.6.1
 pycbrf==1.1.0
 pycodestyle==2.6.0
 pycparser==2.20
-pycryptodome==3.9.9
+pycryptodome==3.19.1
 pyflakes==2.2.0
 pyparsing==2.4.7
 pyQiwiP2P==1.0a9

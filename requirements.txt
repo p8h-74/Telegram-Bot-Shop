@@ -20,7 +20,7 @@ coinbase==2.1.0
 coincurve==14.0.0
 colorama==0.4.4
 dbf-light==1.0.0
-dnspython==2.1.0
+dnspython==2.6.0rc1
 docker-py==1.8.0
 ecdsa==0.16.1
 email-validator==1.1.2

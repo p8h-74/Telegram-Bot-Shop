@@ -48,7 +48,7 @@ pexpect==4.8.0
 phonenumbers==8.12.17
 pluggy==0.13.1
 portend==2.7.0
-protobuf==3.0.0a3
+protobuf==4.25.8
 ptyprocess==0.7.0
 py==1.10.0
 pyaes==1.6.1
@@ -72,7 +72,7 @@ six==1.15.0
 tempora==4.0.1
 toml==0.10.2
 typing-extensions==3.7.4.3
-urllib3==1.26.2
+urllib3==2.5.0
 uuid==1.30
 websocket-client==0.57.0
 yarl==1.6.3

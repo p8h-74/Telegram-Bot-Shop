@@ -48,7 +48,7 @@ pexpect==4.8.0
 phonenumbers==8.12.17
 pluggy==0.13.1
 portend==2.7.0
-protobuf==3.0.0a3
+protobuf==6.33.5
 ptyprocess==0.7.0
 py==1.10.0
 pyaes==1.6.1
